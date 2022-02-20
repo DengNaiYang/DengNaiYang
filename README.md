@@ -11,9 +11,9 @@
 ### My side projects
 .Collecting and sharing awesome resources about technical communication (tech comm):
 
-[![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=wangzhenbl&repo=awesome-technical-communication&theme=radical)](https://github.com/wangzhenbl/awesome-technical-communication)
+[![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=wangzhenbl&repo=指定仓库名&theme=radical)](https://github.com/wangzhenbl/指定仓库名)
 
 .Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
 
- - ！[微信公众号：OPTIMAL机器学习](https://www.optimal-group.org/optimization for machine intelligence-photos/image/upload/cover/wechat-qrcode-scan-to-follow.jpg)
+ - ！[微信公众号：OPTIMAL机器学习](https://www.optimal-group.org / optimization for machine intelligence-photos/image/upload/cover/wechat-qrcode-scan-to-follow.jpg)
 
