@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 
 [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=wangzhenbl&repo=awesome-technical-communication&theme=radical)](https://github.com/wangzhenbl/awesome-technical-communication)
 
+. Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
+ - [微信公众号：](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+
