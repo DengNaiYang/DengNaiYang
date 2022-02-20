@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 . Collecting and sharing awesome resources about technical communication (tech comm):
 
+[![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=wangzhenbl&repo=awesome-technical-communication&theme=radical)](https://github.com/wangzhenbl/awesome-technical-communication)
+
