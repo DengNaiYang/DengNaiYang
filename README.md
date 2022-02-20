@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 
 👯 ![optimization for machine intelligence's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangzhenbl&show_icons=true&theme=tokyonight)
 
-. Collecting and sharing awesome resources about technical communication (tech comm):
+### My side projects
+.Collecting and sharing awesome resources about technical communication (tech comm):
 
 [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=wangzhenbl&repo=awesome-technical-communication&theme=radical)](https://github.com/wangzhenbl/awesome-technical-communication)
 
-. Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
- - [微信公众号：](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+.Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
+
+ - ！[微信公众号：OPTIMAL机器学习](https://www.optimal-group.org/optimization for machine intelligence-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
 
