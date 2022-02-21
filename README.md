@@ -11,7 +11,7 @@
 ### My side projects
 .Collecting and sharing awesome resources about technical communication (tech comm):
 
-[![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=wangzhenbl&repo=指定仓库名&theme=radical)](https://github.com/wangzhenbl/指定仓库名)
+[![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=wangzhenbl&repo=Album-Activities-&theme=radical)](https://github.com/wangzhenbl/Album-Activities-)
 
 .Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
 
