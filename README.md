@@ -42,7 +42,6 @@
 ![optimization for machine intelligence's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangZhenIMU&show_icons=true&theme=tokyonight)
 
 ### My side projects
-.Collecting and sharing awesome resources about technical communication (tech comm):
 
 [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=WangZhenIMU&repo=Album-Activities-&theme=radical)](https://github.com/WangZhenIMU/Album-Activities-)
  
