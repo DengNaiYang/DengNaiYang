@@ -44,8 +44,13 @@
 ### My side projects
 
 [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=WangZhenIMU&repo=Album-Activities-&theme=radical)](https://github.com/WangZhenIMU/Album-Activities-)
- 
- ### Code
+
+
+### Album (Activities)
+![1](http://www.optimal-group.org/Image/20201017_Hefei.jpg)
+![2](http://www.optimal-group.org/Image/20201017_Hefei2.jpg)
+![3](http://www.optimal-group.org/Image/20201017_Hefei3.jpg)
+### Code
  * [LUHC](http://www.optimal-group.org/Resources/Code/LUHC.html) :  LUHC is a Laplacian Unit-Hyperplane Learning for positive and unlabeled learning problem. This package provides a Demo Matlab code for LUHC.
  
 
