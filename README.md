@@ -45,3 +45,6 @@
 
 [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=WangZhenIMU&repo=Album-Activities-&theme=radical)](https://github.com/WangZhenIMU/Album-Activities-)
  
+ ### Code
+ * [LUHC](https://github.com/WangZhenIMU/LUHC.git) :  LUHC is a Laplacian Unit-Hyperplane Learning for positive and unlabeled learning problem. This package provides a Demo Matlab code for LUHC.
+ 
