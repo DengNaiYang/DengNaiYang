@@ -52,13 +52,14 @@
 
 <h1 align="center"> Hi , I’m Zhen Wang王震.
 </h1>
+
 ---
 🌱 I’m a teacher，received my Doctor’s degree in College of Mathematics from Jilin University, China, in 2014.  
 
-😄 Currently,I’m a Professor in School of Mathematical Sciences from Inner Monggolia University and I'm a number of the Optimized and Artificial Intelligence Research Team.(http://www.optimal-group.org/) .The official account of WeChat is OPTIMAL机器学习.
+😄 Currently,I’m a Professor in School of Mathematical Sciences from Inner Monggolia University and I'm a number of the Optimized and Artificial Intelligence Research Team.[](http://www.optimal-group.org/) .The official account of WeChat is OPTIMAL机器学习.
    
-😄 My research interests include pattern recognition, text categorization, and data mining.Especially the use of optimized theory and tools to construct key technologies to solve    such problems.
-I'm a Young Software Engineer, Content Creator, Community Organizer, Self-Finder and Instructor from **Tunis, Tunisia** <img src="./assets/tunisia.png" width="15"/>. I'm passionate about sharing knowledge, creating technology to help and elevate people, documentation, software engineering, communities and F/OSS.
+😄 My research interests include pattern recognition, text categorization, and data mining.Especially the use of optimized theory and tools to construct key technologies to solve  such problems.
+**Tunis, Tunisia** <img src="./assets/tunisia.png" width="15"/>. 
 
 <img align="right" alt="coding animated image --- gif" src="./assets/code.gif?raw=true" width="380" height="300" />
 
