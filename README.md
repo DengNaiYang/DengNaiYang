@@ -3,7 +3,7 @@
 
 
 ---
-## <img src="./assets/cat.gif" width="50" draggable="false"> About me
+# <img src="./assets/cat.gif" width="50" draggable="false"> About me
 
 - 👨🏻‍🎓 &nbsp; I’m a teacher，received my Doctor’s degree in College of Mathematics from Jilin University, China, in 2014.  
 - 🔭 &nbsp; Currently,I’m a Professor in School of Mathematical Sciences from Inner Monggolia University and I'm a number of the Optimized and Artificial Intelligence Research Team.[](http://www.optimal-group.org/) .The official account of WeChat is OPTIMAL机器学习.
