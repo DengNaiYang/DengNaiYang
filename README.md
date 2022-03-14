@@ -56,16 +56,11 @@
 ---
 🌱 I’m a teacher，received my Doctor’s degree in College of Mathematics from Jilin University, China, in 2014.  
 
-😄 Currently,I’m a Professor in School of Mathematical Sciences from Inner Monggolia University and I'm a number of the Optimized and Artificial Intelligence Research Team.[](http://www.optimal-group.org/) .The official account of WeChat is OPTIMAL机器学习.
+😄 Currently,I’m a Professor in School of Mathematical Sciences from Inner Monggolia University and I'm a number of the Optimized and Artificial Intelligence Research Team.(http://www.optimal-group.org/) .The official account of WeChat is OPTIMAL机器学习.
    
 😄 My research interests include pattern recognition, text categorization, and data mining.Especially the use of optimized theory and tools to construct key technologies to solve  such problems.
-**Tunis, Tunisia** <img src="./assets/tunisia.png" width="15"/>. 
 
-<img align="right" alt="coding animated image --- gif" src="./assets/code.gif?raw=true" width="380" height="300" />
-
-I create technical content (on [dev.to](https://dev.to/3imed_jaberi) and [YouTube](https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1)), contribute, maintaine and make useful [open-source projects](https://github.com/3imed-jaberi), speak at meetups/conferences (locally 🇹🇳), present workshops and training sessions and build technical communities.
-
-### <img src="./assets/website.png" width="18" draggable="false"> &nbsp;`WebSite` - [3imed-jaberi.com](https://www.3imed-jaberi.com/) &nbsp; | &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=3imed-jaberi.3imed-jaberi&style=flat-square&color=0088cc" width="85" draggable="false">
+### <img src="./assets/website.png" width="18" draggable="false"> &nbsp;`WebSite.com](https://www.WangZhenIMU.com/) &nbsp; | &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=WangZhenIMU.WangZhenIMU&style=flat-square&color=0088cc" width="85" draggable="false">
 
 <br/>
 
