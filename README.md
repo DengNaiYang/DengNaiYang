@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , I’m Zhen Wang王震.
+<h1 align="center"> Hi<img src="https://img.zcool.cn/community/01ac4c584f407ba801219c7748f65b.gif" width="40px" draggable="false"> , I’m Zhen Wang王震.
 </h1>
 
 
