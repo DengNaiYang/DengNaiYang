@@ -29,7 +29,7 @@
 	
 ### Published papers 
 
-- &nbsp; [1] Wang Z, et al. Semi-Supervised Fuzzy Clustering with Fuzzy Pairwise Constraints[J]. IEEE Transactions on Fuzzy Systems, 2021, in press. (SCI一区Top)
+&nbsp; [1] Wang Z, et al. Semi-Supervised Fuzzy Clustering with Fuzzy Pairwise Constraints[J]. IEEE Transactions on Fuzzy Systems, 2021, in press. (SCI一区Top)
 - &nbsp; [2] Wang Z, et al. General plane-based clustering with distribution loss[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021, in press. (SCI一区Top)
 - &nbsp; [3] Wang Z , Chen X , Li C N , et al. Ramp-based Twin Support Vector Clustering[J]. Neural Computing and Applications, 2020, 32(14): 9886-9896. (SCI二区）
 - &nbsp; [4] Wang Z, Shao Y H, Bai L, et al. Insensitive Stochastic Gradient Twin Support Vector Machines for Large Scale Problems[J]. Information Sciences, 2018, 462: 114-131. (SCI二区Top)
