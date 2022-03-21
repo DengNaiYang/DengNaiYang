@@ -36,7 +36,9 @@ Name:
 	
 ##  Recent Publications
  {Recent Books}   {2015}   {2014}   {2013}   {2012}   {2011}
-* means the corresponding author.
+<h2>{2015}</h2>
+<p>- &nbsp; Yuan-Hai Shao, Wei-Jie Chen, Zhen Wang, Chun-Na Li, Nai-Yang Deng*. Weighted linear loss twin support vector machine for large-scale classification. Knowledge-Based Systems, 73: 276-288 (2015)[Code]</p>
+	* means the corresponding author.
 Recent Books
 - &nbsp; N.-Y. Deng, Y.-J. Tian, C.-H. Zhang. Support Vector Machines: Optimization-Based Theory, Algorithms, and Extensions. CRC Press, 2013.
 
