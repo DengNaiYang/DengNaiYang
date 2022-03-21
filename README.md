@@ -99,7 +99,7 @@ Knowledge-Based Systems, 73: 276-288 (2015)<a href="http://www.optimal-group.org
 	
   <div align="center"> 
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=WangZhenIMU&theme=gruvbox" alt="github-profile-trophy"
+      src="https://github-profile-trophy.vercel.app/?username=DengNaiYang&theme=gruvbox" alt="github-profile-trophy"
       height="180em"
     />
     <!-- &title=MultiLanguage,Commit,Repositories,Issues -->
@@ -111,7 +111,7 @@ Knowledge-Based Systems, 73: 276-288 (2015)<a href="http://www.optimal-group.org
 
   <div align="center"> 
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=WangZhenIMU&count_private=true&show_icons=true&theme=gruvbox&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=DengNaiYang&count_private=true&show_icons=true&theme=gruvbox&locale=en"
       alt="github-readme-stats"
       height="180em" 
     />
