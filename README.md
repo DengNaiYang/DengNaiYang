@@ -26,19 +26,12 @@ Name:
 
 ##  Research Interests
 
-- &nbsp; 2012－2013，吉林大学研究生创新基金（20121053），已结题；
-- &nbsp; 2015－2017，内蒙古自然科学基金博士基金（2015BS0606），优秀结题；
-- &nbsp; 2016－2018，国家自然科学基金青年基金（11501310），已结题；
-- &nbsp; 2019－2020，内蒙古青年科技英才入选者（NJYT-19-B01），已结题；
-- &nbsp; 2019－2022，内蒙古自然科学基金面上基金（2019MS06008）
-- &nbsp; 2020－2021，符号计算与知识工程教育部重点实验室开放基金（93K172020K02）
-- &nbsp; 2020－2023，国家自然科学基金地区基金（61966024）
+
 	
 ##  Recent Publications
  {Recent Books}   {2015}   {2014}   {2013}   {2012}   {2011}
-<h2>{2015}</h2>
-<p>- &nbsp; Yuan-Hai Shao, Wei-Jie Chen, Zhen Wang, Chun-Na Li, Nai-Yang Deng*. Weighted linear loss twin support vector machine for large-scale classification. Knowledge-Based Systems, 73: 276-288 (2015)[Code]</p>
-	* means the corresponding author.
+* means the corresponding author.
+
 Recent Books
 - &nbsp; N.-Y. Deng, Y.-J. Tian, C.-H. Zhang. Support Vector Machines: Optimization-Based Theory, Algorithms, and Extensions. CRC Press, 2013.
 
@@ -88,9 +81,6 @@ Recent Books
 - &nbsp; Y.-X. Li, Y.-H. Shao,N.-Y. Deng*. Improved Prediction of Palmitoylation SitesUsing PWMs and SVM. Protein \& Peptide Letters,2011, 18(2): 186-193(8).
 
 
-### Code
- 
-[LUHC](http://www.optimal-group.org/Resources/Code/LUHC.html) :  LUHC is a Laplacian Unit-Hyperplane Learning for positive and unlabeled learning problem. This package provides a Demo Matlab code for LUHC.
   
 <details>	
   <summary><b>🏆 Github Trophies</b></summary>
@@ -117,7 +107,4 @@ Recent Books
 </details>
 
 
-
-
-    
 
