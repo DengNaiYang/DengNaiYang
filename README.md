@@ -7,10 +7,9 @@
 </h2>
 
 
-#   Correspondence
+##   Correspondence
 
-<font size=1>字体大小size=1
-- 👨🏻‍🎓 &nbsp; Name:  Nai-Yang Deng
+###  - 👨🏻‍🎓 &nbsp; Name:  Nai-Yang Deng
 - 👨🏻‍🎓 &nbsp; I received  my B.Sc. and M.Sc.degrees in the Department of Mathematics and Mechanics from Peking University, China, in 1962 and 1966, respectively.   
 - 🔭 &nbsp; I joined the Department of Science College of China Agriculture University as a professor in 1990, I'm a Part-time Professor of Shanghai University from 1994.
 - 👨🏻‍💻 &nbsp; I have wide research interests, mainly including computational methods for optimization, operation research, support vector machine in data mining and bioinformatics. In these areas, I have published over 100 papers in leading international journals or conferences.
@@ -22,11 +21,11 @@
 - 📫 &nbsp; Address: College of Science, China Agriculture Univercity, P.O.Box 483, Beijing 100083, China
 </font>
 
-#  Research Interests
+##  Research Interests
 
 
 	
-#  Recent Publications
+##  Recent Publications
  {Recent Books}   {2015}   {2014}   {2013}   {2012}   {2011}
 * means the corresponding author.
 
