@@ -18,11 +18,22 @@
 - 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/DengNaiYang/ama)! I will be happy to help.
 - 📫 &nbsp; How to reach me:  +86-10-62736265(H)
 - 📫 &nbsp; Address: College of Science, China Agriculture Univercity, P.O.Box 483, Beijing 100083, China
-
+- 🔭 &nbsp; Last Modified: 2015-01-10
 
 ##  Research Interests
 
-
+### Optimization Theory and Application
+- &nbsp; Convex optimization
+- &nbsp; Mathematical analysis of SVM
+- &nbsp; Global Convergence Algorithms
+- &nbsp; Linear Programming and Combinatorics
+### ML/DM topics
+- &nbsp; Supervised and unsupervised learning
+- &nbsp; Semi-supervised and active learning
+- &nbsp; Multi-instance and multi-label learning
+- &nbsp; Dimensionality reduction and feature selection
+- &nbsp; Systems biology and bioinformatics
+- &nbsp; Image process and texture recognition
 	
 ##  Recent Publications
  {Recent Books}   {2015}   {2014}   {2013}   {2012}   {2011}
