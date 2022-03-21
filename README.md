@@ -1,4 +1,4 @@
-<h1 align="center"> Hi<img src="https://img.zcool.cn/community/01ac4c584f407ba801219c7748f65b.gif" width="40px" draggable="false"> , I’m NaiYangDeng邓乃扬.
+<h1 align="center"> Hi<img src="https://img.zcool.cn/community/01ac4c584f407ba801219c7748f65b.gif" width="40px" draggable="false"> , I’m Nai-YangDeng邓乃扬.
 </h1>
 
 ---
@@ -9,6 +9,9 @@
 
 ##  <img src="https://img.zcool.cn/community/010d7e5d070fa8a801213ec2a484f1.gif" width="50" draggable="false"> Correspondence
 
+- 👨🏻‍🎓 &nbsp; <font size="2" face="Verdana">
+Name:
+</font>   Nai-Yang Deng
 - 👨🏻‍🎓 &nbsp; I’m a teacher，received my Doctor’s degree in College of Mathematics from Jilin University, China, in 2014.  
 - 🔭 &nbsp; Currently,I’m a Professor in School of Mathematical Sciences from Inner Monggolia University and I'm a number of the Optimized and Artificial Intelligence Research Team.[](http://www.optimal-group.org/) .The official account of WeChat is OPTIMAL机器学习.
 - 👨🏻‍💻 &nbsp; My research interests include pattern recognition, text categorization, and data mining.Especially the use of optimized theory and tools to construct key technologies to solve  such problems.
@@ -20,7 +23,7 @@
 - 📫 &nbsp; How to reach me: &nbsp;
   <a href="https://linkedin.com/in/WangZhenIMU">
   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="50px">
-- &nbsp; Name: Nai-Yang Deng  
+
 ###  Research project
 
 - &nbsp; 2012－2013，吉林大学研究生创新基金（20121053），已结题；
