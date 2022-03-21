@@ -36,13 +36,14 @@
 - &nbsp; Image process and texture recognition
 	
 ##  Recent Publications
- {Recent Books}   {2015}   {2014}   {2013}   {2012}   {2011}
+ 
+### {Recent Books}   {2015}   {2014}   {2013}   {2012}   {2011}
 * means the corresponding author.
 
-Recent Books
+#### Recent Books
 - &nbsp; N.-Y. Deng, Y.-J. Tian, C.-H. Zhang. Support Vector Machines: Optimization-Based Theory, Algorithms, and Extensions. CRC Press, 2013.
 
-2015
+#### 2015
 - &nbsp; Yuan-Hai Shao, Wei-Jie Chen, Zhen Wang, Chun-Na Li, Nai-Yang Deng*. 
 	<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705114003785">Weighted linear loss twin support vector machine for large-scale classification.
 	</a> 
@@ -50,7 +51,7 @@ Knowledge-Based Systems, 73: 276-288 (2015)<a href="http://www.optimal-group.org
 	</a> 
 	
 
-2014
+#### 2014
 - &nbsp; Zhen Wang , Yuan-Hai Shao*, Lan Bai, Nai-Yang Deng. Twin Support Vector Machine for Clustering. IEEE Transactions on Neural Networks and Learning Systems, 2014, DOI: 10.1109/TNNLS.2014.2379930. [Code].
 - &nbsp; Chun-Na Li, Yuan-Hai Shao*, Nai-Yang Deng. Robust L1-norm nonparallel proximal support vector machine. Optimization, 2014, DOI: 10.1080/02331934.2014.994627. [Code].
 - &nbsp; Yuan-Hai Shao, Nai-Yang Deng*. The Equivalence between Principal Component Analysis and Nearest Flat in the Least Square Sense. Journal of Optimization Theory and Applications, 2014, DOI: 10.1007/s10957-014-0647-y.
@@ -69,7 +70,7 @@ Knowledge-Based Systems, 73: 276-288 (2015)<a href="http://www.optimal-group.org
 - &nbsp; Xu, Y., Wen, X., Wen, L. S., Wu, L. Y., Deng, N. Y., & Chou, K. C. iNitro-Tyr: Prediction of nitrotyrosine sites in proteins with general pseudo amino acid composition. PloS one, 2014, 9(8), e105018.
 - &nbsp; Xu, Y., Wen, X., Shao, X. J., Deng, N. Y., & Chou, K. C. iHyd-PseAAC: predicting hydroxyproline and hydroxylysine in proteins by incorporating dipeptide position-specific propensity into pseudo amino acid composition. International journal of molecular sciences, 2014, 15(5), 7594-7610.
 
-2013
+#### 2013
 - &nbsp; Y.-H. Shao, N.-Y. Deng*, W.-J. Chen. A proximal classifier with consistency. Knowledge-Based Systems,2013, 49:171-178 [Code].
 - &nbsp; Y.-H. Shao, N.-Y. Deng, W.-J. Chen, Z. Wang. Improved generalized eigenvalue proximal support vector machine. IEEE Signal Processing Letters, 2013, 20(3):213- 216.
 - &nbsp; Xu, Y., Shao, X. J., Wu, L. Y., N.-Y. Deng, Chou, K. C.. iSNO-AAPair: incorporating amino acid pairwise coupling into PseAAC for predicting cysteine S-nitrosylation sites in proteins. PeerJ,2013, 1, e171.
@@ -81,13 +82,13 @@ Knowledge-Based Systems, 73: 276-288 (2015)<a href="http://www.optimal-group.org
 - &nbsp; Y.-H. Shao, Z. Wang, W.-J. Chen,N.-Y. Deng*. Least squares twin parametric-margin support vector machines for classification. Applied Intelligence, 2013,39(3):451-464.
 - &nbsp; Y.-H. Shao,Z. Wang, W.-J. Chen, N.-Y. Deng*. A regularization for the projection twin support vector machine. Knowledge-Based Systems, 2013,37:203–210.
 
-2012
+#### 2012
 - &nbsp; Y.-H. Shao,N.-Y. Deng*, Z.-M. Yang, W.-J. Chen, Z. Wang. Probabilistic outputs for twin support vector machines. Knowledge-Based Systems, 2012, 33: 145–151. [Code].
 - &nbsp; Y.-H. Shao,N.-Y. Deng*.A coordinate descent margin based-twin support vector machine for classification. Neural Networks, 2012, 25: 114–121.
 - &nbsp; Y.-H. Shao, N.-Y. Deng*, Z.-M. Yang.Least squares recursive projection twin support vector machine for classification. Pattern Recognition, 2012, 45(6): 2299-2307. [Code].
 - &nbsp; C.-H. Zhang, Y.-H. Shao, J.-Y. Tan, N.-Y. Deng. Mixed-norm Linear Support Vector Machine. Neural Computing and Applications, 2012, DOI: 10.1007/s00521-012-1166-0
 
-2011
+#### 2011
 - &nbsp; Y.-H. Shao, C.-H. Chun, X.-B. Wang, N.-Y. Deng*.Improvements on Twin Support Vector Machines. IEEE Transactions on Neural Networks, vol.22 no.6 pp. 962-968, 2011. [Code] [Data].
 - &nbsp; Y.-X. Li, Y.-H. Shao, L. Jing, N.-Y. Deng*. An Efficient Support Vector Machine Approach for Identifying Protein S-Nitrosylation Sites. Protein \& Peptide Letters, 2011, 18(6): 573-587(15).
 - &nbsp; Y.-X. Li, Y.-H. Shao,N.-Y. Deng*. Improved Prediction of Palmitoylation SitesUsing PWMs and SVM. Protein \& Peptide Letters,2011, 18(2): 186-193(8).
