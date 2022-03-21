@@ -36,7 +36,7 @@ Recent Books
 - &nbsp; N.-Y. Deng, Y.-J. Tian, C.-H. Zhang. Support Vector Machines: Optimization-Based Theory, Algorithms, and Extensions. CRC Press, 2013.
 
 2015
-- &nbsp; Yuan-Hai Shao, Wei-Jie Chen, Zhen Wang, Chun-Na Li, Nai-Yang Deng*. Weighted linear loss twin support vector machine for large-scale classification. Knowledge-Based Systems, 73: 276-288 (2015)[Code].
+- &nbsp; Yuan-Hai Shao, Wei-Jie Chen, Zhen Wang, Chun-Na Li, Nai-Yang Deng*. [Weighted linear loss twin support vector machine for large-scale classification.](https://www.sciencedirect.com/science/article/abs/pii/S0950705114003785) Knowledge-Based Systems), 73: 276-288 (2015)[Code].
 
 2014
 - &nbsp; Zhen Wang , Yuan-Hai Shao*, Lan Bai, Nai-Yang Deng. Twin Support Vector Machine for Clustering. IEEE Transactions on Neural Networks and Learning Systems, 2014, DOI: 10.1109/TNNLS.2014.2379930. [Code].
