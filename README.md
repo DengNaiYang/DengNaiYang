@@ -37,7 +37,6 @@
 	
 ##  Recent Publications
  
-### {Recent Books}   {2015}   {2014}   {2013}   {2012}   {2011}
 * means the corresponding author.
 
 #### Recent Books
