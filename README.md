@@ -7,7 +7,7 @@
 </h2>
 
 
-#  <img src="https://img.zcool.cn/community/010d7e5d070fa8a801213ec2a484f1.gif" width="50" draggable="false"> About me
+##  <img src="https://img.zcool.cn/community/010d7e5d070fa8a801213ec2a484f1.gif" width="50" draggable="false"> Correspondence
 
 - 👨🏻‍🎓 &nbsp; I’m a teacher，received my Doctor’s degree in College of Mathematics from Jilin University, China, in 2014.  
 - 🔭 &nbsp; Currently,I’m a Professor in School of Mathematical Sciences from Inner Monggolia University and I'm a number of the Optimized and Artificial Intelligence Research Team.[](http://www.optimal-group.org/) .The official account of WeChat is OPTIMAL机器学习.
@@ -20,7 +20,7 @@
 - 📫 &nbsp; How to reach me: &nbsp;
   <a href="https://linkedin.com/in/WangZhenIMU">
   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="50px">
-  
+- &nbsp; Name: Nai-Yang Deng  
 ###  Research project
 
 - &nbsp; 2012－2013，吉林大学研究生创新基金（20121053），已结题；
