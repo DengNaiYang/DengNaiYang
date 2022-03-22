@@ -22,12 +22,12 @@
 
 ##  Research Interests
 
-### Optimization Theory and Application
+#### Optimization Theory and Application
 - &nbsp; Convex optimization
 - &nbsp; Mathematical analysis of SVM
 - &nbsp; Global Convergence Algorithms
 - &nbsp; Linear Programming and Combinatorics
-### ML/DM topics
+#### ML/DM topics
 - &nbsp; Supervised and unsupervised learning
 - &nbsp; Semi-supervised and active learning
 - &nbsp; Multi-instance and multi-label learning
