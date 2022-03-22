@@ -15,7 +15,6 @@
 - 💬 &nbsp; E-mail: dengnaiyang@cau.edu.cn
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DengNaiYang).
 - 🤝 &nbsp; Welcom for everyone who need help or collaborator.
-- 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/DengNaiYang/ama)! I will be happy to help.
 - 📫 &nbsp; How to reach me:  +86-10-62736265(H)
 - 📫 &nbsp; Address: College of Science, China Agriculture Univercity, P.O.Box 483, Beijing 100083, China
 - 🔭 &nbsp; Last Modified: 2015-01-10
