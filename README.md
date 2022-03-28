@@ -45,16 +45,24 @@
 - &nbsp; Yuan-Hai Shao, Wei-Jie Chen, Zhen Wang, Chun-Na Li, Nai-Yang Deng*. 
 	<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705114003785">Weighted linear loss twin support vector machine for large-scale classification.
 	</a> 
-Knowledge-Based Systems, 73: 276-288 (2015)<a href="http://www.optimal-group.org/Resource/WLTSVM.html">Code.
+Knowledge-Based Systems, 73: 276-288 (2015)<a href="http://www.optimal-group.org/Resource/WLTSVM.html">[Code].
 	</a> 
 	
 
 #### 2014
-- &nbsp; Zhen Wang , Yuan-Hai Shao*, Lan Bai, Nai-Yang Deng. Twin Support Vector Machine for Clustering. IEEE Transactions on Neural Networks and Learning Systems, 2014, DOI: 10.1109/TNNLS.2014.2379930. [Code].
-- &nbsp; Chun-Na Li, Yuan-Hai Shao*, Nai-Yang Deng. Robust L1-norm nonparallel proximal support vector machine. Optimization, 2014, DOI: 10.1080/02331934.2014.994627. [Code].
-- &nbsp; Yuan-Hai Shao, Nai-Yang Deng*. The Equivalence between Principal Component Analysis and Nearest Flat in the Least Square Sense. Journal of Optimization Theory and Applications, 2014, DOI: 10.1007/s10957-014-0647-y.
+- &nbsp; Zhen Wang , Yuan-Hai Shao*, Lan Bai, Nai-Yang Deng. Twin Support Vector Machine for Clustering. IEEE Transactions on Neural Networks and Learning Systems, 2014, DOI: 10.1109/TNNLS.2014.2379930. <a href="http://www.optimal-group.org/Resource/TWSVC.html">[Code].
+	</a>.
+- &nbsp; Chun-Na Li, Yuan-Hai Shao*, Nai-Yang Deng. Robust L1-norm nonparallel proximal support vector machine. Optimization, 2014, DOI: 10.1080/02331934.2014.994627. <a href="http://www.optimal-group.org/Resource/L1NPSVM.html">[Code].
+	</a>.
+- &nbsp; Yuan-Hai Shao, Nai-Yang Deng*. 
+<a href="https://link.springer.com/article/10.1007/s10957-014-0647-y">  The Equivalence between Principal Component Analysis and Nearest Flat in the Least Square Sense. 
+	</a> 
+Journal of Optimization Theory and Applications, 2014, DOI: 10.1007/s10957-014-0647-y.
 - &nbsp; Yuan-Hai Shao*, Chun-Na Li, Zhen Wang , Ming-Zeng Liu, Nai-Yang Deng. Proximal Classifier via Absolute Value Inequalities. In: Proceedings of the 14th IEEE International Conference on Data Mining Workshops (ICDM'14), Shenzhen, China, 2014.
-- &nbsp; Yuan-Hai Shao, Wei-Jie Chen,Zhen Wang, Hai-Bin Zhang, Nai-Yang Deng*. A proximal classifier with positive and negative local regions. Neurocomputing, 2014, 145:131-139.
+- &nbsp; Yuan-Hai Shao, Wei-Jie Chen,Zhen Wang, Hai-Bin Zhang, Nai-Yang Deng*. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231214006997">.
+A proximal classifier with positive and negative local regions.
+	</a>
+Neurocomputing, 2014, 145:131-139.
 - &nbsp; Yuan-Hai Shao, Zhen Wang, Zhi-Min Yang*, Nai-Yang Deng*. Weighted linear loss support vector machine for large scale problems. Procedia Computer Science(IAITQM), 2014,31C: 639-647.
 - &nbsp; Wei-Jie Chen*, Yuan-Hai Shao*, Nai-Yang Deng, Zhi-Lin Feng. Laplacian least squares twin support vector machine for semi-supervised classification. Neurocomputing, 2014,145:465-476.
 - &nbsp; Yuan-Hai Shao, Wei-Jie Chen, Jing-jing Zhang, Zhen Wang, Nai-Yang Deng*. An efficient weighted Lagrangian twin support vector machine for imbalanced data classification. Pattern Recognition, 2014, 47(9): 3158-3167.[Code].
