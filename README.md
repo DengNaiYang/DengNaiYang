@@ -109,31 +109,35 @@ Neurocomputing, 2014, 144, 151-158.
 iNitro-Tyr: Prediction of nitrotyrosine sites in proteins with general pseudo amino acid composition. 
 	</a>
 PloS one, 2014, 9(8), e105018.
-- &nbsp; Xu, Y., Wen, X., Shao, X. J., Deng, N. Y., & Chou, K. C. <a href="http://www.mdpi.com/1422-0067/15/5/7594/pdf">
-iHyd-PseAAC: predicting hydroxyproline and hydroxylysine in proteins by incorporating dipeptide position-specific propensity into pseudo amino acid composition.
-	</a>
-	International journal of molecular sciences, 2014, 15(5), 7594-7610.
+- &nbsp; Xu, Y., Wen, X., Shao, X. J., Deng, N. Y., & Chou, K. C.iHyd-PseAAC: predicting hydroxyproline and hydroxylysine in proteins by incorporating dipeptide position-specific propensity into pseudo amino acid composition.International journal of molecular sciences, 2014, 15(5), 7594-7610.
 
 #### 2013
-- &nbsp; Y.-H. Shao, N.-Y. Deng*, W.-J. Chen. A proximal classifier with consistency. Knowledge-Based Systems,2013, 49:171-178 [Code].
+- &nbsp; Y.-H. Shao, N.-Y. Deng*, W.-J. Chen.A proximal classifier with consistency.Knowledge-Based Systems,2013, 49:171-178 <a href="http://www.optimal-group.org/Resource/PCC.html">[Code].
+	</a>
 - &nbsp; Y.-H. Shao, N.-Y. Deng, W.-J. Chen, Z. Wang. Improved generalized eigenvalue proximal support vector machine. IEEE Signal Processing Letters, 2013, 20(3):213- 216.
 - &nbsp; Xu, Y., Shao, X. J., Wu, L. Y., N.-Y. Deng, Chou, K. C.. iSNO-AAPair: incorporating amino acid pairwise coupling into PseAAC for predicting cysteine S-nitrosylation sites in proteins. PeerJ,2013, 1, e171.
 - &nbsp; Yong-Cui Wang, Shi-Long Chen, N.-Y. Deng, Yong Wang: Network predicting drug's anatomical therapeutic chemical code. Bioinformatics, 29(10): 1317-1324 (2013)
 - &nbsp; Y.-H. Shao, L. Bai, Z. Wang, X.-Y. Hua, N.-Y. Deng*. Proximal Plane Clustering via Eigenvalues. Procedia Computer Science (IAITQM), 2013,17: 41–47.
 - &nbsp; Y.-H. Shao, W.-J. Chen, W.-B. Huang, Z.-M. Yang, N.-Y. Deng*. The Best Separating Decision Tree Twin Support Vector Machine for Multi-Class Classification. Procedia Computer Science (IAITQM), 2013,17: 1032-1038.
-- &nbsp; Y.-H. Shao, C.-H. Zhang, Z.-M. Yang, L. Jing, N.-Y. Deng*. An \varepsilon-twin support vector machine for regression. Neural Computing and Applications,2013, 23:175–185 [Code].
+- &nbsp; Y.-H. Shao, C.-H. Zhang, Z.-M. Yang, L. Jing, N.-Y. Deng*. An \varepsilon-twin support vector machine for regression. Neural Computing and Applications,2013, 23:175–185 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105018">[Code].
+	</a>
 - &nbsp; Y.-H. Shao, N.-Y. Deng*. A novel margin based twin support vector machine with unity norm hyperplanes. Neural Computing and Applications, 2013, 22(7-8):1627-1635.
 - &nbsp; Y.-H. Shao, Z. Wang, W.-J. Chen,N.-Y. Deng*. Least squares twin parametric-margin support vector machines for classification. Applied Intelligence, 2013,39(3):451-464.
 - &nbsp; Y.-H. Shao,Z. Wang, W.-J. Chen, N.-Y. Deng*. A regularization for the projection twin support vector machine. Knowledge-Based Systems, 2013,37:203–210.
 
 #### 2012
-- &nbsp; Y.-H. Shao,N.-Y. Deng*, Z.-M. Yang, W.-J. Chen, Z. Wang. Probabilistic outputs for twin support vector machines. Knowledge-Based Systems, 2012, 33: 145–151. [Code].
+- &nbsp; Y.-H. Shao,N.-Y. Deng*, Z.-M. Yang, W.-J. Chen, Z. Wang. Probabilistic outputs for twin support vector machines. Knowledge-Based Systems, 2012, 33: 145–151. <a href="http://www.optimal-group.org/Resource/TWSVM.html">
+[Code].
+	</a>
 - &nbsp; Y.-H. Shao,N.-Y. Deng*.A coordinate descent margin based-twin support vector machine for classification. Neural Networks, 2012, 25: 114–121.
-- &nbsp; Y.-H. Shao, N.-Y. Deng*, Z.-M. Yang.Least squares recursive projection twin support vector machine for classification. Pattern Recognition, 2012, 45(6): 2299-2307. [Code].
+- &nbsp; Y.-H. Shao, N.-Y. Deng*, Z.-M. Yang.Least squares recursive projection twin support vector machine for classification. Pattern Recognition, 2012, 45(6): 2299-2307. <a href="http://www.optimal-group.org/Resource/LSPTSVM.html">[Code].
+	</a>
 - &nbsp; C.-H. Zhang, Y.-H. Shao, J.-Y. Tan, N.-Y. Deng. Mixed-norm Linear Support Vector Machine. Neural Computing and Applications, 2012, DOI: 10.1007/s00521-012-1166-0
 
 #### 2011
-- &nbsp; Y.-H. Shao, C.-H. Chun, X.-B. Wang, N.-Y. Deng*.Improvements on Twin Support Vector Machines. IEEE Transactions on Neural Networks, vol.22 no.6 pp. 962-968, 2011. [Code] [Data].
+- &nbsp; Y.-H. Shao, C.-H. Chun, X.-B. Wang, N.-Y. Deng*.Improvements on Twin Support Vector Machines. IEEE Transactions on Neural Networks, vol.22 no.6 pp. 962-968, 2011.  <a href="http://www.optimal-group.org/Resource/LSPTSVM.html">[Code]
+	</a>
+[Data].
 - &nbsp; Y.-X. Li, Y.-H. Shao, L. Jing, N.-Y. Deng*. An Efficient Support Vector Machine Approach for Identifying Protein S-Nitrosylation Sites. Protein \& Peptide Letters, 2011, 18(6): 573-587(15).
 - &nbsp; Y.-X. Li, Y.-H. Shao,N.-Y. Deng*. Improved Prediction of Palmitoylation SitesUsing PWMs and SVM. Protein \& Peptide Letters,2011, 18(2): 186-193(8).
 
