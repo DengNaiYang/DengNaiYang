@@ -89,12 +89,30 @@ Nonparallel hyperplane support vector machine for binary classification problems
 	Information Sciences, 2014, 263(1) 2014, 22–35.<a href="http://www.optimal-group.org/Resource/NHSVM.html">
 [Code].
 	</a>
-- &nbsp; Zhang, Z., Zhen, L., Deng, N., & Tan, J. Sparse least square twin support vector machine with adaptive norm. Applied Intelligence, 2014, 41(4), 1097-1107.
-- &nbsp; Zhang, Z., Ke, T.,N.-Y. Deng, Tan, J. Biased p-norm support vector machine for PU learning. Neurocomputing, 2014, 136, 256-261.
-- &nbsp; Xu, Y., Wang, X., Wang, Y., Tian, Y., Shao, X., Wu, L. Y.,N.-Y. Deng*. Prediction of posttranslational modification sites from amino acid sequences with kernel methods. Journal of theoretical biology, 344 (2014) 78–87.
-- &nbsp; Tan, J., Zhen, L., Deng, N., & Zhang, Z. Laplacian p-norm proximal support vector machine for semi-supervised classification. Neurocomputing, 2014, 144, 151-158.
-- &nbsp; Xu, Y., Wen, X., Wen, L. S., Wu, L. Y., Deng, N. Y., & Chou, K. C. iNitro-Tyr: Prediction of nitrotyrosine sites in proteins with general pseudo amino acid composition. PloS one, 2014, 9(8), e105018.
-- &nbsp; Xu, Y., Wen, X., Wen, L. S., Wu, L. Y., Deng, N. Y., & Chou, K. C. iNitro-Tyr: Prediction of nitrotyrosine sites in proteins with general pseudo amino acid composition. PloS one, 2014, 9(8), e105018.
+- &nbsp; Zhang, Z., Zhen, L., Deng, N., & Tan, J.<a href="https://link.springer.com/article/10.1007/s10489-014-0586-1#page-1">
+Sparse least square twin support vector machine with adaptive norm.
+	</a>
+	Applied Intelligence, 2014, 41(4), 1097-1107.
+- &nbsp; Zhang, Z., Ke, T.,N.-Y. Deng, Tan, J.<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231214001416">
+Biased p-norm support vector machine for PU learning.
+	</a>
+Neurocomputing, 2014, 136, 256-261.
+- &nbsp; Xu, Y., Wang, X., Wang, Y., Tian, Y., Shao, X., Wu, L. Y.,N.-Y. Deng*.<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022519313005390">
+Prediction of posttranslational modification sites from amino acid sequences with kernel methods. 
+	</a>
+Journal of theoretical biology, 344 (2014) 78–87.
+- &nbsp; Tan, J., Zhen, L., Deng, N., & Zhang, Z.<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231214007012">
+Laplacian p-norm proximal support vector machine for semi-supervised classification. 
+	</a>
+Neurocomputing, 2014, 144, 151-158.
+- &nbsp; Xu, Y., Wen, X., Wen, L. S., Wu, L. Y., Deng, N. Y., & Chou, K. C. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105018">
+iNitro-Tyr: Prediction of nitrotyrosine sites in proteins with general pseudo amino acid composition. 
+	</a>
+PloS one, 2014, 9(8), e105018.
+- &nbsp; Xu, Y., Wen, X., Wen, L. S., Wu, L. Y., Deng, N. Y., & Chou, K. C. <a href="http://www.optimal-group.org/member/dny.html">
+iNitro-Tyr: Prediction of nitrotyrosine sites in proteins with general pseudo amino acid composition.
+	</a>
+PloS one, 2014, 9(8), e105018.
 - &nbsp; Xu, Y., Wen, X., Shao, X. J., Deng, N. Y., & Chou, K. C. iHyd-PseAAC: predicting hydroxyproline and hydroxylysine in proteins by incorporating dipeptide position-specific propensity into pseudo amino acid composition. International journal of molecular sciences, 2014, 15(5), 7594-7610.
 
 #### 2013
