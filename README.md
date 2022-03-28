@@ -63,11 +63,32 @@ Journal of Optimization Theory and Applications, 2014, DOI: 10.1007/s10957-014-0
 A proximal classifier with positive and negative local regions.
 	</a>
 Neurocomputing, 2014, 145:131-139.
-- &nbsp; Yuan-Hai Shao, Zhen Wang, Zhi-Min Yang*, Nai-Yang Deng*. Weighted linear loss support vector machine for large scale problems. Procedia Computer Science(IAITQM), 2014,31C: 639-647.
-- &nbsp; Wei-Jie Chen*, Yuan-Hai Shao*, Nai-Yang Deng, Zhi-Lin Feng. Laplacian least squares twin support vector machine for semi-supervised classification. Neurocomputing, 2014,145:465-476.
-- &nbsp; Yuan-Hai Shao, Wei-Jie Chen, Jing-jing Zhang, Zhen Wang, Nai-Yang Deng*. An efficient weighted Lagrangian twin support vector machine for imbalanced data classification. Pattern Recognition, 2014, 47(9): 3158-3167.[Code].
-- &nbsp; Lan Bai, Zhen Wang, Yuan-Hai Shao*, Nai-Yang Deng. A novel feature selection method for twin support vector machine. Knowledge-Based Systems, 2014, 59 1-8.[Code].
-- &nbsp; Yuan-Hai Shao, Wei-Jie Chen,Nai-Yang Deng*. Nonparallel hyperplane support vector machine for binary classification problems. Information Sciences, 2014, 263(1) 2014, 22–35.[Code].
+- &nbsp; Yuan-Hai Shao, Zhen Wang, Zhi-Min Yang*, Nai-Yang Deng*.  <a href="https://www.sciencedirect.com/science/article/pii/S1877050914004888">
+	Weighted linear loss support vector machine for large scale problems. 
+	</a>
+	Procedia Computer Science(IAITQM), 2014,31C: 639-647.
+- &nbsp; Wei-Jie Chen*, Yuan-Hai Shao*, Nai-Yang Deng, Zhi-Lin Feng. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231214005700">
+Laplacian least squares twin support vector machine for semi-supervised classification. 
+	</a>
+Neurocomputing, 2014,145:465-476.
+- &nbsp; Yuan-Hai Shao, Wei-Jie Chen, Jing-jing Zhang, Zhen Wang, Nai-Yang Deng*. <a href="https://www.sciencedirect.com/science/article/abs/pii/S003132031400106X">
+An efficient weighted Lagrangian twin support vector machine for imbalanced data classification.
+	</a>
+Pattern Recognition, 2014, 47(9): 3158-3167.<a href="http://www.optimal-group.org/Resource/LTSVM.html">
+[Code].
+	</a>
+- &nbsp; Lan Bai, Zhen Wang, Yuan-Hai Shao*, Nai-Yang Deng. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705114000471">
+A novel feature selection method for twin support vector machine. 
+	</a>
+Knowledge-Based Systems, 2014, 59 1-8. <a href="http://www.optimal-group.org/Resource/FSTWSVM.html">
+[Code].
+        </a>
+- &nbsp; Yuan-Hai Shao, Wei-Jie Chen,Nai-Yang Deng*. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025513007883">
+Nonparallel hyperplane support vector machine for binary classification problems. 
+	 </a>
+	Information Sciences, 2014, 263(1) 2014, 22–35.<a href="http://www.optimal-group.org/Resource/NHSVM.html">
+[Code].
+	</a>
 - &nbsp; Zhang, Z., Zhen, L., Deng, N., & Tan, J. Sparse least square twin support vector machine with adaptive norm. Applied Intelligence, 2014, 41(4), 1097-1107.
 - &nbsp; Zhang, Z., Ke, T.,N.-Y. Deng, Tan, J. Biased p-norm support vector machine for PU learning. Neurocomputing, 2014, 136, 256-261.
 - &nbsp; Xu, Y., Wang, X., Wang, Y., Tian, Y., Shao, X., Wu, L. Y.,N.-Y. Deng*. Prediction of posttranslational modification sites from amino acid sequences with kernel methods. Journal of theoretical biology, 344 (2014) 78–87.
