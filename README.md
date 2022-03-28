@@ -109,11 +109,10 @@ Neurocomputing, 2014, 144, 151-158.
 iNitro-Tyr: Prediction of nitrotyrosine sites in proteins with general pseudo amino acid composition. 
 	</a>
 PloS one, 2014, 9(8), e105018.
-- &nbsp; Xu, Y., Wen, X., Wen, L. S., Wu, L. Y., Deng, N. Y., & Chou, K. C. <a href="http://www.optimal-group.org/member/dny.html">
-iNitro-Tyr: Prediction of nitrotyrosine sites in proteins with general pseudo amino acid composition.
+- &nbsp; Xu, Y., Wen, X., Shao, X. J., Deng, N. Y., & Chou, K. C. <a href="http://www.mdpi.com/1422-0067/15/5/7594/pdf">
+iHyd-PseAAC: predicting hydroxyproline and hydroxylysine in proteins by incorporating dipeptide position-specific propensity into pseudo amino acid composition.
 	</a>
-PloS one, 2014, 9(8), e105018.
-- &nbsp; Xu, Y., Wen, X., Shao, X. J., Deng, N. Y., & Chou, K. C. iHyd-PseAAC: predicting hydroxyproline and hydroxylysine in proteins by incorporating dipeptide position-specific propensity into pseudo amino acid composition. International journal of molecular sciences, 2014, 15(5), 7594-7610.
+	International journal of molecular sciences, 2014, 15(5), 7594-7610.
 
 #### 2013
 - &nbsp; Y.-H. Shao, N.-Y. Deng*, W.-J. Chen. A proximal classifier with consistency. Knowledge-Based Systems,2013, 49:171-178 [Code].
